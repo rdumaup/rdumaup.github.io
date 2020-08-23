@@ -25,3 +25,5 @@ plugins:
 collections:
   images:
     output: true
+
+url: "//rdumaup.github.io"
