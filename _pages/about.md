@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: <i>Photography is more than a medium for factual communication of ideas. It is a creative art.</i><br /> - Ansel Adams
-description: Board is a stylish full-width masonry grid theme.
+description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Salt Lake City, Utah.
 featured_image: /images/demo/landscape-07.jpg
 ---
 
