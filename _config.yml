@@ -1,28 +1,61 @@
-title: REBEKAH DUMAUP PHOTOGRAPHY
-author: Rebekah Dumaup
-email: rsdumaup@gmail.com
-description: >-
-    Hello, I'm Rebekah. I’m 29 years old and I am a potrait, family, wedding, and engagement photographer based in Salt Lake City, Utah.
+site: Rebekah Dumaup Photography
 
-    When I’m not shooting or editing, I love to go fishing, climbing, play videogames, cook new recipes, and take care of my dogs and chickens.
-
-    Photography to me is a canvas for creativity and moments are the paint that give it life and color. I believe the most beautiful images are those that paint a genuine, authentic, honest, and precious moment in time. My goal is to capture these special moments in hopes that I can create something timeless for you to cherish.
-
-    I would so love to meet you and capture your special moments, so please feel free to contact me.
-
-social:
-  facebook: rebekah.dumaup
-  instagram: rebekah.dumaup
-  pinterest: rdumaup
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+url:
+baseurl:
 
 collections:
-  images:
+  pages:
     output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-url: "https://rebekahdumaup.com"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+grid_alignments:
+  - top
+  - center
+  - bottom
