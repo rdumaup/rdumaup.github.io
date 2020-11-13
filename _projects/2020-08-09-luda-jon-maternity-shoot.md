@@ -2,7 +2,7 @@
 title: 'Jon x Luda Maternity Photoshoot'
 subtitle: 'Salt Lake City, UT'
 date: 2020-10-08 00:00:00
-description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Saly Lake City, Utah.
+description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Salt Lake City, Utah.
 featured_image: '/images/projects/200809_ludajon/jonluda-8.jpg'
 ---
 
