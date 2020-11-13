@@ -2,8 +2,8 @@
 title: 'Graduation Portraits'
 subtitle: 'Salt Lake City, UT'
 date: 2020-10-24 00:00:00
-description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Saly Lake City, Utah.
-featured_image: '/images/projects/201024_gradphoto/GradPhotos-3.jpg'
+description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Salt Lake City, Utah.
+featured_image: '/images/projects/201024_gradphoto/gradphotos-3.jpg'
 ---
 
 <div class="gallery" data-columns="3">
