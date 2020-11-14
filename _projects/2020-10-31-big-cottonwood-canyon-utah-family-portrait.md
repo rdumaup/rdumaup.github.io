@@ -1,6 +1,6 @@
 ---
-title: 'Kristine x Joey Engagement Photoshoot'
-subtitle: 'Salt Lake City, UT'
+title: 'Family Portrait'
+subtitle: 'Big Cottonwood Canyon, UT'
 date: 2020-10-24 00:00:00
 description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Saly Lake City, Utah.
 featured_image: '/images/projects/201031_sheenafamily/familyportrait-2.jpg'
