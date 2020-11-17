@@ -22,4 +22,4 @@ featured_image: '/images/projects/201024_gradphoto/gradphotos-31.jpg'
 
 Do you like what you see? Get in touch today!
 
-<a href="/contact/" class="button button--large">Book Now</a>
+<a href="/contact" class="button button--large">Book Now</a>

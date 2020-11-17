@@ -26,4 +26,4 @@ featured_image: '/images/projects/201016_kylekassidy/backyardwedding-12.jpg'
 
 Do you like what you see? Get in touch today!
 
-<a href="/contact/" class="button button--large">Book Now</a>
+<a href="/contact" class="button button--large">Book Now</a>

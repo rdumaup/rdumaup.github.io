@@ -15,6 +15,6 @@ I have since traveled the world, but my love of photography has always been a co
 
 ## Got Questions?
 
-Are you ready to book or have any questions? I encourage you to [get in touch](/contact/), I would love to work with you!
+Are you ready to book or have any questions? I encourage you to [get in touch](/contact), I would love to work with you!
 
-<a href="/contact/" class="button button--large">Get In Touch</a>
+<a href="/contact" class="button button--large">Get In Touch</a>
