@@ -3,7 +3,7 @@ title: 'Kayla x Derek Couple Portrait'
 subtitle: 'Tunnel Springs Park, Salt Lake City, UT'
 date: 2020-11-04 00:00:00
 description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Saly Lake City, Utah.
-featured_image: '/images/projects/201104_kayladerek/kaylaspence-7.jpg'
+featured_image: '/images/projects/201104_kayladerek/kaylaspence-8.jpg'
 ---
 
 <div class="gallery" data-columns="3">

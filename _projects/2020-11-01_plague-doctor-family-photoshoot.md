@@ -3,7 +3,7 @@ title: 'Plague Doctor Family Photoshoot'
 subtitle: 'Salt Lake City, UT'
 date: 2020-11-01 00:00:00
 description: Rebekah Dumaup is a wedding, engagement, portrait, maternity, and family photographer based in Saly Lake City, Utah.
-featured_image: '/images/projects/201101_raquelfamily/plaguedoc-67.jpg'
+featured_image: '/images/projects/201101_raquelfamily/plaguedoc-42.jpg'
 ---
 
 <div class="gallery" data-columns="3">
