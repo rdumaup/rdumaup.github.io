@@ -16,8 +16,8 @@ featured_image: '/images/projects/201106_katieben/engagementshoot-12.jpg'
 <img src="/images/projects/201106_katieben/engagementshoot-8.jpg">
 <img src="/images/projects/201106_katieben/engagementshoot.jpg">
 <img src="/images/projects/201106_katieben/engagementshoot-9.jpg">
-<img src="/images/projects/201106_katieben/engagementshoot-10.jpg">
 <img src="/images/projects/201106_katieben/engagementshoot-12.jpg">
+<img src="/images/projects/201106_katieben/engagementshoot-10.jpg">
 <img src="/images/projects/201106_katieben/engagementshoot-11.jpg">
 </div>
 
